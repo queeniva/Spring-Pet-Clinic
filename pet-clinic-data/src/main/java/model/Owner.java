@@ -1,4 +1,4 @@
 package com.springpetclinic.springpetclinic.model;
 
-public class Owner extends Person {
+public class Owner extends Person  {
 }
